@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "776588857459",
+    "firebase_url": "https://tourist-guide-177cc.firebaseio.com",
+    "project_id": "tourist-guide-177cc",
+    "storage_bucket": "tourist-guide-177cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776588857459:android:447c20d40f57b603",
+        "android_client_info": {
+          "package_name": "com.bipan.tourist_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776588857459-3a5bn8fp0ocvmrk43vejm66b3iqj760u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0rVMxrtR9rcPA6_X5XE9w_zZyBZeTj0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776588857459-3a5bn8fp0ocvmrk43vejm66b3iqj760u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776588857459-67i6dgofaoubelb4s0jp6vq1n1mchhqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bipan.touristGuide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
