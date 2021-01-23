@@ -1,6 +1,6 @@
-# tourist_guide
+# Travel guide app
 
-A new Flutter project.
+Project developed with flutter.
 
 ## Getting Started
 
